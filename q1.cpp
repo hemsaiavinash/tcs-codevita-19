@@ -2,8 +2,6 @@
 #include<iostream>
 using namespace std;
 
-/* Function declarations */
-
 /* Main function */
 int main(){
     //Variable declaration
